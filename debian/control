@@ -9,7 +9,7 @@ Build-Depends:
 Standards-Version: 4.1.1
 Homepage: http://wayland.freedesktop.org/
 
-Package: wayland-protocols-imx
+Package: wayland-protocols
 Section: libdevel
 Architecture: all
 Priority: extra
@@ -17,7 +17,6 @@ Depends:
  ${shlibs:Depends},
  ${misc:Depends}
 Multi-Arch: foreign
-Provides: wayland-protocols
 Description: wayland compositor protocols
  Wayland protocols that add functionality not available in the Wayland core
  protocol. Such protocols either add completely new functionality, or extend
