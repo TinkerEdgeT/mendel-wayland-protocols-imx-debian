@@ -1,3 +1,9 @@
+wayland-protocols-imx (1.16+imx-3) UNRELEASED; urgency=medium
+
+  * Update to 1.16
+
+ -- Coral <coral-support@google.com>  Wed, 05 Jun 2019 17:51:32 -0700
+
 wayland-protocols-imx (1.13+imx-2) mendel-chef; urgency=medium
 
   * Cut for chef release
