@@ -1,3 +1,9 @@
+wayland-protocols-imx (1.17+imx-1) UNRELEASED; urgency=medium
+
+  * Update to 1.17
+
+ -- Coral <coral-support@google.com>  Wed, 28 Aug 2019 15:37:36 -0700
+
 wayland-protocols-imx (1.16+imx-3) UNRELEASED; urgency=medium
 
   * Update to 1.16
