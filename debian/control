@@ -12,7 +12,7 @@ Homepage: http://wayland.freedesktop.org/
 Package: wayland-protocols
 Section: libdevel
 Architecture: all
-Priority: extra
+Priority: optional
 Depends:
  ${shlibs:Depends},
  ${misc:Depends}
